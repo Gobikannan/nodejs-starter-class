@@ -1,0 +1,6 @@
+{
+  "name": "Amazn Clone API",
+  "mail": {
+    "host": "prod-mail-server"
+  }
+}
